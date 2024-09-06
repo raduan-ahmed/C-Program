@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "4-constants": "c"
+        "4-constants": "c",
+        "stdio.h": "c"
     }
 }
